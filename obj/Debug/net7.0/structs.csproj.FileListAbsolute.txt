@@ -1,0 +1,28 @@
+C:\Users\Pichau\Codigos aula\structs\structs\bin\Debug\net7.0\structs.exe
+C:\Users\Pichau\Codigos aula\structs\structs\bin\Debug\net7.0\structs.deps.json
+C:\Users\Pichau\Codigos aula\structs\structs\bin\Debug\net7.0\structs.runtimeconfig.json
+C:\Users\Pichau\Codigos aula\structs\structs\bin\Debug\net7.0\structs.dll
+C:\Users\Pichau\Codigos aula\structs\structs\bin\Debug\net7.0\structs.pdb
+C:\Users\Pichau\Codigos aula\structs\structs\obj\Debug\net7.0\structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Codigos aula\structs\structs\obj\Debug\net7.0\structs.AssemblyInfoInputs.cache
+C:\Users\Pichau\Codigos aula\structs\structs\obj\Debug\net7.0\structs.AssemblyInfo.cs
+C:\Users\Pichau\Codigos aula\structs\structs\obj\Debug\net7.0\structs.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Codigos aula\structs\structs\obj\Debug\net7.0\structs.dll
+C:\Users\Pichau\Codigos aula\structs\structs\obj\Debug\net7.0\refint\structs.dll
+C:\Users\Pichau\Codigos aula\structs\structs\obj\Debug\net7.0\structs.pdb
+C:\Users\Pichau\Codigos aula\structs\structs\obj\Debug\net7.0\structs.genruntimeconfig.cache
+C:\Users\Pichau\Codigos aula\structs\structs\obj\Debug\net7.0\ref\structs.dll
+C:\dev\structs\structs\bin\Debug\net7.0\structs.exe
+C:\dev\structs\structs\bin\Debug\net7.0\structs.deps.json
+C:\dev\structs\structs\bin\Debug\net7.0\structs.runtimeconfig.json
+C:\dev\structs\structs\bin\Debug\net7.0\structs.dll
+C:\dev\structs\structs\bin\Debug\net7.0\structs.pdb
+C:\dev\structs\structs\obj\Debug\net7.0\structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\structs\structs\obj\Debug\net7.0\structs.AssemblyInfoInputs.cache
+C:\dev\structs\structs\obj\Debug\net7.0\structs.AssemblyInfo.cs
+C:\dev\structs\structs\obj\Debug\net7.0\structs.csproj.CoreCompileInputs.cache
+C:\dev\structs\structs\obj\Debug\net7.0\structs.dll
+C:\dev\structs\structs\obj\Debug\net7.0\refint\structs.dll
+C:\dev\structs\structs\obj\Debug\net7.0\structs.pdb
+C:\dev\structs\structs\obj\Debug\net7.0\structs.genruntimeconfig.cache
+C:\dev\structs\structs\obj\Debug\net7.0\ref\structs.dll
